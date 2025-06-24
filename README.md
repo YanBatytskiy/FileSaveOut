@@ -18,7 +18,7 @@ class Message {
 
 ### ⚠️ Результат работы
 
-![](./result.png)
+![](./Result.png)
 
 ## ⚙️ Сборка
 mkdir build && cd build
